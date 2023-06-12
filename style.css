@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.img {
+    text-align: center;
+    color: red;
+}
+
+.body {
+    font-size: medium;
+    color: rgb(201, 28, 63);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+ 
